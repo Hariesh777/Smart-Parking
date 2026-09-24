@@ -1,0 +1,6 @@
+{
+  "name": "Smart Parking Detection System",
+  "description": "Beginner-friendly Computer Vision smart parking detection system with real-time video slot occupancy tracking, interactive 20-slot parking layout, entry/exit duration logs, and FastAPI/OpenCV architecture.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
